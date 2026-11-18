@@ -63,7 +63,7 @@ ESG 지표를 연결해
 ## 어떻게 일하나요
 
 ```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#E8F7F1","primaryTextColor":"#0B2A22","primaryBorderColor":"#01C38E","lineColor":"#01C38E","secondaryColor":"#F3F9F7","tertiaryColor":"#FFFFFF","fontSize":"15px"}}}%%
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#E8F7F1","primaryTextColor":"#0B2A22","primaryBorderColor":"#01C38E","lineColor":"#01C38E","secondaryColor":"#F3F9F7","tertiaryColor":"#FFFFFF","fontSize":"15px"},"flowchart":{"wrappingWidth":300}}}%%
 flowchart LR
     A["진단<br/>업무 · 데이터 · 시스템"] --> B["설계<br/>AI 전환 로드맵"]
     B --> C["구축<br/>AI Agent · 자동화"]
