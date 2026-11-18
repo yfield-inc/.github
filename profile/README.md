@@ -65,9 +65,9 @@ ESG 지표를 연결해
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"primaryColor":"#E8F7F1","primaryTextColor":"#0B2A22","primaryBorderColor":"#01C38E","lineColor":"#01C38E","secondaryColor":"#F3F9F7","tertiaryColor":"#FFFFFF","fontSize":"15px"}}}%%
 flowchart LR
-    A["진단<br/>업무 · 데이터 · 시스템 현황"] --> B["설계<br/>AI 전환 로드맵"]
-    B --> C["구축<br/>AI Agent · 자동화 워크플로"]
-    C --> D["내재화<br/>조직 정착 · 지속 고도화"]
+    A["진단<br/>업무 · 데이터 · 시스템"] --> B["설계<br/>AI 전환 로드맵"]
+    B --> C["구축<br/>AI Agent · 자동화"]
+    C --> D["내재화<br/>조직 정착 · 고도화"]
     D -. "관측 · 개선" .-> A
 ```
 
