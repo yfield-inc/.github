@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yfield-inc/.github/main/profile/assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yfield-inc/.github/main/profile/assets/banner-light.svg">
-    <img alt="YField — 복잡한 업무를, 하나의 AI 흐름으로 · AI-Powered Technology Company" src="https://raw.githubusercontent.com/yfield-inc/.github/main/profile/assets/banner-light.svg" width="100%">
+    <img alt="YField - 복잡한 업무를, 하나의 AI 흐름으로 · AI-Powered Technology Company" src="https://raw.githubusercontent.com/yfield-inc/.github/main/profile/assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
@@ -81,9 +81,9 @@ flowchart LR
 
 완벽한 예방을 약속하지 않습니다. 대신 **얼마나 빨리 발견하고, 얼마나 빨리 되돌릴 수 있는가**를 기준으로 시스템을 설계합니다. 침해가 피해로 번지는 거리는 거의 언제나 '인지까지 걸린 시간'이기 때문입니다.
 
-- **관측을 먼저 세웁니다** — 기능보다 로그 · 메트릭 · 트레이스가 먼저입니다. 무엇이 정상인지 모르면, 무엇이 이상한지도 알 수 없습니다.
-- **대응은 패치에서 끝내지 않습니다** — 막아낸 공격도 로그를 되짚어 공격자의 행동 패턴을 파악하고, 추가 보안 패치까지 배포합니다.
-- **고칠 수 있는 구조로 만듭니다** — 취약점보다 위험한 것은, 발견하고도 신속하게 고칠 수 없는 환경입니다. 의존성과 배포 경로를 단순하게 유지합니다.
+- **관측을 먼저 세웁니다** - 기능보다 로그 · 메트릭 · 트레이스가 먼저입니다. 무엇이 정상인지 모르면, 무엇이 이상한지도 알 수 없습니다.
+- **대응은 패치에서 끝내지 않습니다** - 막아낸 공격도 로그를 되짚어 공격자의 행동 패턴을 파악하고, 추가 보안 패치까지 배포합니다.
+- **고칠 수 있는 구조로 만듭니다** - 취약점보다 위험한 것은, 발견하고도 신속하게 고칠 수 없는 환경입니다. 의존성과 배포 경로를 단순하게 유지합니다.
 
 📝 **관련 글** · [보안, 이제는 방어보다 모니터링이다](https://yfield.co.kr/blog/boan-ijeneun-bangeoboda-moniteoringida) · [해킹 시도는 막았지만, 대응은 거기서 끝나지 않았다](https://yfield.co.kr/blog/haeking-sidoneun-magassjiman-daeeungeun-geogiseo-ggeutnaji-anhassda) · [Java4Shell, 왜 위험한가요?](https://yfield.co.kr/blog/java4shell-wae-wiheomhangayo) · [Grafana Faro로 프론트엔드 모니터링하기](https://yfield.co.kr/blog/grafana-faroro-react-typescript-peuronteuendeu-moniteoringhagi)
 
@@ -104,12 +104,12 @@ flowchart LR
 
 | 저장소 | 분야 |
 | --- | --- |
-| [grafana](https://github.com/yfield-inc/grafana) | 관측 가능성 — 메트릭 · 로그 · 트레이스 |
+| [grafana](https://github.com/yfield-inc/grafana) | 관측 가능성 - 메트릭 · 로그 · 트레이스 |
 | [vaultwarden](https://github.com/yfield-inc/vaultwarden) | 시크릿 · 자격증명 관리 |
 | [n8n](https://github.com/yfield-inc/n8n) | 워크플로 자동화 |
 | [genkit](https://github.com/yfield-inc/genkit) | AI 애플리케이션 프레임워크 |
 | [pgvector](https://github.com/yfield-inc/pgvector) | Postgres 벡터 검색 |
-| [fanuc_driver](https://github.com/yfield-inc/fanuc_driver) | FANUC 로봇 ROS 2 연동 — 제조 AX |
+| [fanuc_driver](https://github.com/yfield-inc/fanuc_driver) | FANUC 로봇 ROS 2 연동 - 제조 AX |
 
 <br>
 
